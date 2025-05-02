@@ -1,7 +1,7 @@
 <?php
 // Configurações de conexão
 $host = 'localhost';
-$dbname = 'fiap_secretaria2';
+$dbname = 'fiap_secretaria';
 $username = 'root';
 $password = ''; // sem senha no XAMPP por padrão
 
