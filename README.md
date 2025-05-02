@@ -1,14 +1,17 @@
 👏 **Sensacional! Mandou bem demais no projeto — aqui está o seu `README.md` atualizado com os pontos finais que você pediu, incluindo o link de acesso online e as infos sobre ambiente de desenvolvimento!**
+---
 
+## ✅ Também disponível online:
+
+👉 [https://fiap.ravenstudio.com.br/fiap-secretaria/public/login](https://fiap.ravenstudio.com.br/fiap-secretaria/public/login)
+
+---
 ---
 
 ```md
 # 📚 Sistema Secretaria FIAP
 
 Sistema desenvolvido em **PHP puro** e **MySQL** como parte do desafio da FIAP. Permite o gerenciamento de **Alunos**, **Turmas** e **Matrículas**, com controle de acesso por login de administrador.
-
-✅ **Disponível online:**  
-👉 [https://fiap.ravenstudio.com.br/fiap-secretaria/public/login](https://fiap.ravenstudio.com.br/fiap-secretaria/public/login)
 
 ---
 
@@ -55,7 +58,6 @@ Sistema desenvolvido em **PHP puro** e **MySQL** como parte do desafio da FIAP. 
 
 ## 📂 Estrutura de pastas
 
-```
 /fiap-secretaria
   /public
     index.php
@@ -115,7 +117,7 @@ Sistema desenvolvido em **PHP puro** e **MySQL** como parte do desafio da FIAP. 
 1️⃣ **Clone o repositório:**
 
 ```bash
-git clone https://github.com/jgmarinhopontes/Desafio-Fiap.git
+git clone https://github.com/jgmarinhopontes/fiap-secretaria.git
 ```
 
 2️⃣ **Importe o banco de dados:**
