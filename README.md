@@ -47,7 +47,6 @@ Sistema desenvolvido em **PHP puro** e **MySQL** como parte do desafio da FIAP. 
 ## 🎨 Diferenciais
 
 ✨ **Dashboard com contadores animados**  
-✨ **Modal de inatividade com logout automático (após 15 segundos)**  
 ✨ **Menu lateral responsivo com efeito deslizante no mobile**  
 ✨ **Validação dinâmica de descrição de turma (contador de caracteres)**  
 ✨ **Interface moderna com Bootstrap 5 e customização CSS**  
