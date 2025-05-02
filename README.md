@@ -129,7 +129,12 @@ No phpMyAdmin ou via CLI, importe o arquivo `dump.sql`.
 Edite `/includes/db.php` com os dados da sua conexão local:
 
 ```php
-$pdo = new PDO('mysql:host=localhost;dbname=fiap_secretaria;charset=utf8', 'root', '');
+<?php
+// Configurações de conexão
+$host = 'localhost';
+$dbname = 'fiap_secretaria';
+$username = 'root';
+$password = ''; // sem senha no XAMPP por padrão
 ```
 
 4️⃣ **Acesse no navegador:**
