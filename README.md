@@ -1,5 +1,3 @@
-👏 **Sensacional! Mandou bem demais no projeto — aqui está o seu `README.md` atualizado com os pontos finais que você pediu, incluindo o link de acesso online e as infos sobre ambiente de desenvolvimento!**
----
 
 ## ✅ Também disponível online:
 
